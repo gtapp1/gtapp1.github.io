@@ -1,113 +1,138 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Gerald Tapel",
+    "label": "BSIT Student & Tech Enthusiast",
+    "picture": "https://avatars.githubusercontent.com/u/108726190?s=400&u=796faf91900c487ae26e529682d855cc70e45bec&v=4",
+    "email": "your-email@example.com",
+    "phone": "your-phone-number",
+    "website": "https://yourgithubusername.github.io",
+    "summary": "I am a BSIT student at Far Eastern University - Roosevelt with a strong interest in cloud computing, Digital Marketing, and emerging technologies. I am particularly fascinated by cloud infrastructure, DevOps, AI, blockchain, and cybersecurity. Always eager to learn, I explore the latest advancements in these fields and how they shape the future of technology.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Manila",
+      "countryCode": "PH",
+      "region": "Metro Manila"
+    },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      {
+        "network": "github",
+        "username": "yourgithubusername",
+        "url": "https://github.com/yourgithubusername"
+      },
+      {
+        "network": "linkedin",
+        "username": "yourlinkedinusername",
+        "url": "https://linkedin.com/in/yourlinkedinusername"
+      },
+      {
+        "network": "twitter",
+        "username": "yourtwitterhandle",
+        "url": "https://twitter.com/yourtwitterhandle"
+      }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    {
+      "name": "Cloud Computing"
+    },
+    {
+      "name": "API Integrations"
+    },
+    {
+      "name": "Cybersecurity"
+    },
+    {
+      "name": "Blockchain & Web3"
+    },
+    {
+      "name": "Digital Marketing"
+    }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python",
+        "Java",
+        "C++"
+      ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Tools & Technologies",
+      "keywords": [
+        "Linux",
+        "Apache",
+        "MySQL",
+        "MongoDB",
+        "Git/GitHub",
+        "Arduino",
+        "AWS",
+        "Anki"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Far Eastern University - Roosevelt",
+      "area": "Information Technology",
+      "studyType": "BS",
+      "startDate": "20XX-XX-XX",
       "endDate": "Present",
       "courses": [
+        "Programming Fundamentals",
+        "Web Development",
+        "Discrete Mathematics",
+        "Networking & Security"
       ]
+    },
+    {
+      "institution": "TESDA",
+      "area": "Computer Systems Servicing (CSS)",
+      "studyType": "NC II Certification",
+      "startDate": "20XX-XX-XX",
+      "endDate": "20XX-XX-XX",
+      "summary": "Certified in Computer Systems Servicing, covering hardware/software troubleshooting, network configuration, and system maintenance."
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "FEU Roosevelt Tech Committee",
+      "position": "Tech Committee Member",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "20XX-XX-XX",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Assisting in technical support, troubleshooting, and event tech management.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Fixing BSODs, software/hardware configurations",
+        "Handling live streaming and audio systems",
+        "Providing tech support during presentations"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "Future Frontiers: AI Ideathon",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Participant",
+      "startDate": "20XX-XX-XX",
+      "endDate": "20XX-XX-XX",
+      "summary": "Participated in an AI ideathon, developing innovative AI-driven solutions.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Gained insights into AI trends and applications",
+        "Engaged in discussions about AI's impact on technology"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Completed 100 Days of Code Challenge",
+      "date": "20XX",
+      "awarder": "Self-initiated",
+      "summary": "Completed a structured coding challenge focusing on Python and its frameworks."
     }
   ],
   "references": [
